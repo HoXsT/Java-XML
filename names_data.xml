@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response>
+    <row>
+        <brth_yr>2021</brth_yr>
+        <gndr>FEMALE</gndr>
+        <ethcty>HISPANIC</ethcty>
+        <nm>GERALDINE</nm>
+        <cnt>13</cnt>
+        <rnk>75</rnk>
+    </row>
+    <row>
+        <brth_yr>2021</brth_yr>
+        <gndr>FEMALE</gndr>
+        <ethcty>HISPANIC</ethcty>
+        <nm>ISABELLA</nm>
+        <cnt>331</cnt>
+        <rnk>1</rnk>
+    </row>
+    <row>
+        <brth_yr>2021</brth_yr>
+        <gndr>MALE</gndr>
+        <ethcty>WHITE NON HISPANIC</ethcty>
+        <nm>MICHAEL</nm>
+        <cnt>150</cnt>
+        <rnk>2</rnk>
+    </row>
+    <row>
+        <brth_yr>2021</brth_yr>
+        <gndr>MALE</gndr>
+        <ethcty>HISPANIC</ethcty>
+        <nm>LIAM</nm>
+        <cnt>350</cnt>
+        <rnk>1</rnk>
+    </row>
+</response>
